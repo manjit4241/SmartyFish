@@ -1,0 +1,30 @@
+export const theme = {
+    colors: {
+        background: '#0a192f',
+        backgroundLight: '#112240',
+        primary: '#64ffda',
+        secondary: '#00b4d8',
+        tertiary: '#90e0ef',
+        text: '#e6f1ff',
+        textSecondary: '#8892b0',
+        glassBackground: 'rgba(17, 34, 64, 0.6)',
+        glassBorder: 'rgba(100, 255, 218, 0.2)',
+        error: '#ff4d4d',
+        success: '#00e676',
+    },
+    spacing: {
+        xs: 4,
+        sm: 8,
+        md: 16,
+        lg: 24,
+        xl: 32,
+        xxl: 48,
+    },
+    borderRadius: {
+        sm: 8,
+        md: 16,
+        lg: 24,
+        xl: 32,
+        round: 9999,
+    },
+};
